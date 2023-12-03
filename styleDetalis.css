@@ -435,7 +435,7 @@ main{
     background-size: contain;
   }
 }
-@media screen and (min-width: 769px) and (max-width: 1200px){
+@media screen and (min-width: 768px) and (max-width: 1200px){
   .container{
     max-width: 720px;
     width: 100%;
