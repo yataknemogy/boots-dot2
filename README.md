@@ -10,4 +10,4 @@
 
 **Ссылка на проект**
 
-[Кроссы — и точка.](https://yataknemogy.github.io/boots-dot/)
+[Кроссы — и точка.](https://yataknemogy.github.io/boots-dot2/)
